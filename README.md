@@ -1,5 +1,5 @@
 # test-repo
 ##yoyoyo
-*test
-*test
-*test
+* test
+* test
+* test
